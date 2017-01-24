@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WWFrame</string>
+    <string name="ok">确定</string>
+
+    <string name="dialog_title">温馨提示</string>
+    <string name="dialog_relogin">需要重新登录</string>
+</resources>
